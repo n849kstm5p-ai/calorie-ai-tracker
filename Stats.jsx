@@ -1,0 +1,1 @@
+export default function Stats(){return <div><h2>Stats</h2><p>Weekly analytics placeholder.</p></div>}

@@ -1,0 +1,1 @@
+export default function Coach(){return <div><h2>AI Coach</h2><p>Eat more protein and stay consistent.</p></div>}

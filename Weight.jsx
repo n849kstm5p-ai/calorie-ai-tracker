@@ -1,0 +1,1 @@
+import {useState} from 'react'; export default function Weight(){const[w,setW]=useState('');return <div><h2>Weight</h2><input value={w} onChange={e=>setW(e.target.value)} placeholder='Weight'/></div>}
